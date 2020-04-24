@@ -1,13 +1,14 @@
-This is a single page web application created using react for assignment 4
+This is a single page web application created using react for assignment 4(Internet computing). which will provide weather forcast using weather API.
+follow below steps to run the react Appication:
+In cmd:
+1. cd Desktop
+2. cd assignment
+3. npm start
+then the blog site will open.
 
+The screencasting video link is: https://screencast-o-matic.com/watch/cYf00NAu5n
 
-
-
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://screencast-o-matic.com/watch/cYf00NAu5n).
 
 ## Available Scripts
 
