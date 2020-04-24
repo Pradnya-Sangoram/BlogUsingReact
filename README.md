@@ -1,8 +1,8 @@
 This is a single page web application created using react for assignment 4(Internet computing). which will provide weather forcast using weather API.
 follow below steps to run the react Appication:
-In cmd:
-1. cd Desktop
-2. cd assignment
+
+1. clone the repository
+2. npm install
 3. npm start
 then the blog site will open.
 
