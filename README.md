@@ -1,4 +1,5 @@
-This is a single page web application created using react for assignment 4(Internet computing). which will provide weather forcast using weather API.
+This is a single page web application created using react. which will provide weather forcast using weather API.
+
 follow below steps to run the react Appication:
 
 1. clone the repository
